@@ -1,0 +1,68 @@
+HTML
+<h1> - 24px  200%  1,5em
+<h2> - 18px  200%  1,3em
+<h3> - 14px  200%  1,17em
+<h4> 
+<h5> 
+<h6> 
+<body> - główne okno przyglądarki
+<head> - informacje dotyczące strony
+<title> - wyświetlanie rzeczy na samej górzej przeglądarki
+<p> - akapit tekstu
+<b> - pogrubienie tekstu
+<i> - słowa wyświetlone kursywą
+<sup> - indeks dolny
+<sub> - indeks górny
+<br /> - akapit
+<hr /> - przerwa
+<strong> - większe znaczenie tekstu
+<em> - dodatkowy nacisk na rzecz
+<blockquote> - dłuższe cytaty
+<q> - oznaczenie krótszych cytatów
+<abbr> - rozwinięcie skrótu
+<cite> - odwołanie się do czegoś
+<dfn> - wyjaśnienie terminu
+<address> - podawanie szczegółowych informacji kontaktowych
+<ins> - przedstawienie elementów dodanych do dokumentu
+<del> - przedstawienie elementów usuniętych do dokumentu
+<s> - niewystarczająco dokładne informacje na stronie
+<ol> - uporządkowane listy elementów
+<li> - każdy element listy musi byś pomiędzy tym
+<ul> - listy nieuporządkowane
+<dl> - listy definicji
+<dt> - definiowany termin
+<dd> - podanie definicji
+<a> - cel łącza strony
+<a href=""> - pomiedzy "" tym można wstawić link strony
+<img> - umieszczenie obrazu na stronie
+<figure> - podanie obrazu i wyświetlenie jego opisów
+<figcaption> - dawanie podpisów do wyśiwetlania obrazów
+<table> - tworzenie tabelki
+<tr> - nowy wiersz tabeli
+<td> - każda komórak tabeli
+<th> - oznaczanie nagłówka
+<thead> - nagłówek tabeli
+<tbody> - główna zawartość tabeli
+<tfoot> - stopa tabeli
+<form> - wszystkie pola formularzy
+<input> - tworzenie kilku różnych rodzajów pól
+<textarea> - tworzenie wielowierszowych pól tekstowych
+<select> - listy rozwijane
+<button> - większa kontrola nad wzgędem przycisków
+<label> - prezentowanie pól rormularzy
+<fieldset> - rozwiązanie z sobą pola formularza
+<legend> - umieszczenie elementów za otwierającym znacznikiem <fieldset>
+<!-- --> dodawać do kodu komentarz
+<span> wewnątrzwierszowy odpowiednik elementu
+<div> - pozwalają grupować dowolne inne elementy
+<meta> - jest wewnątrz elementu <head> zawiera informacje dotyczące strony
+<video> - kontrola nad odtwarzaniem
+<source> - do określenia pliku zawierającego klip wideo
+<audio> - dodawnie pliku audio
+<link> - informujesz stronę  gdzie znajduje się link css
+<style> - można umieszczać elementy css w dokumencie
+<nav> - umieszczenie głównych bloków nawigacji
+<header i footer> - tworzenie: nagłówka i stopka
+<article> - pełna funkcja pojemnika, w którym są umieszczone dowolne funkcje
+<section> - służy do grupowania innych powiążań ze sobą
+<hgroup> - grupowanie od jednego do kilku elementów
